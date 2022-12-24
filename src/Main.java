@@ -4,5 +4,18 @@ public class Main {
         System.out.println("I'm adding a new feature");
         System.out.println("Please add new features in new branches");
         System.out.println("Don't mess with the main branch");
+
+
+
+
+
+
+
+
+
+
+
+
+        System.out.println("Not a conflict");
     }
 }
