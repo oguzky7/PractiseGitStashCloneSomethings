@@ -12,5 +12,7 @@ public class Main {
          git checkout newBranch
          git stash apply 0
          */
+
+        // tekrardan bi bu branchi push denemesi
     }
 }
